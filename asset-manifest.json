@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/serials-tracker/static/css/main.18aed395.chunk.css",
+    "main.js": "/serials-tracker/static/js/main.bd100745.chunk.js",
+    "main.js.map": "/serials-tracker/static/js/main.bd100745.chunk.js.map",
+    "runtime-main.js": "/serials-tracker/static/js/runtime-main.9a11f062.js",
+    "runtime-main.js.map": "/serials-tracker/static/js/runtime-main.9a11f062.js.map",
+    "static/js/2.1a197e5d.chunk.js": "/serials-tracker/static/js/2.1a197e5d.chunk.js",
+    "static/js/2.1a197e5d.chunk.js.map": "/serials-tracker/static/js/2.1a197e5d.chunk.js.map",
+    "static/js/3.0d67c3d3.chunk.js": "/serials-tracker/static/js/3.0d67c3d3.chunk.js",
+    "static/js/3.0d67c3d3.chunk.js.map": "/serials-tracker/static/js/3.0d67c3d3.chunk.js.map",
+    "index.html": "/serials-tracker/index.html",
+    "static/css/main.18aed395.chunk.css.map": "/serials-tracker/static/css/main.18aed395.chunk.css.map",
+    "static/js/2.1a197e5d.chunk.js.LICENSE.txt": "/serials-tracker/static/js/2.1a197e5d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/serials-tracker/static/media/loader.ed84da1d.svg",
+    "static/media/logo.7ec45a58.png": "/serials-tracker/static/media/logo.7ec45a58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a11f062.js",
+    "static/js/2.1a197e5d.chunk.js",
+    "static/css/main.18aed395.chunk.css",
+    "static/js/main.bd100745.chunk.js"
+  ]
+}
