@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/serials-tracker/static/css/main.a5be64d9.chunk.css",
-    "main.js": "/serials-tracker/static/js/main.3155cfab.chunk.js",
-    "main.js.map": "/serials-tracker/static/js/main.3155cfab.chunk.js.map",
+    "main.js": "/serials-tracker/static/js/main.a5866af3.chunk.js",
+    "main.js.map": "/serials-tracker/static/js/main.a5866af3.chunk.js.map",
     "runtime-main.js": "/serials-tracker/static/js/runtime-main.9a11f062.js",
     "runtime-main.js.map": "/serials-tracker/static/js/runtime-main.9a11f062.js.map",
     "static/js/2.dc6b5fa1.chunk.js": "/serials-tracker/static/js/2.dc6b5fa1.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9a11f062.js",
     "static/js/2.dc6b5fa1.chunk.js",
     "static/css/main.a5be64d9.chunk.css",
-    "static/js/main.3155cfab.chunk.js"
+    "static/js/main.a5866af3.chunk.js"
   ]
 }
